@@ -1,6 +1,6 @@
 {
-    "name": "jumpy platformer",
-    "description": "",
+    "name": "SUPER L'ARCHE BROS.",
+    "description": "Help L'Archies navigate the Mushroom Kingdom trying to rescue Princess Cam from the evil King Pineo",
     "dependencies": {
         "device": "*",
         "animation": "*",
